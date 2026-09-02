@@ -1,5 +1,9 @@
 # Changelog
 
+## [10.12.1](https://github.com/npm/cli/compare/config-v10.12.0...config-v10.12.1) (2026-09-02)
+### Bug Fixes
+* [`64d4b4b`](https://github.com/npm/cli/commit/64d4b4be3f2bc49bddaa085467f1bc18912c0182) [#9937](https://github.com/npm/cli/pull/9937) config: avoid exporting persistent allow-scripts (#9937) (@github-actions[bot], @Fnine59)
+
 ## [10.12.0](https://github.com/npm/cli/compare/config-v10.11.0...config-v10.12.0) (2026-06-29)
 ### Features
 * [`3021ad6`](https://github.com/npm/cli/commit/3021ad60d9a381ac8c64617843de661b2a0d4620) [#9694](https://github.com/npm/cli/pull/9694) arborist: extend replace-registry-host with URL prefix matching (#6110) (#9694) (@github-actions[bot], @u2mejc)
